@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e960c1d5b0a7418d82b87c698f496276, type: 3}
+  m_Name: Duelist
+  m_EditorClassIdentifier: BattlefieldPrototype.Runtime::BattlefieldPrototype.BattleUnitDefinition
+  DisplayName: Duelist
+  Role: 17
+  MaxHealth: 100
+  MoveSpeed: 7.5
+  Damage: 18
+  AttackRange: 2.1
+  AttackCooldown: 0.55
+  BodyScale: 0.96
+  ArmorFraction: 0.08
+  RetreatDistance: 0
+  AbilityCooldown: 7
+  SecondaryAbilityCooldown: 9
+  ThirdAbilityCooldown: 16
+  FourthAbilityCooldown: 22
+  AbilityPower: 24
+  AbilityRadius: 2.7
+  ProjectileSpeed: 18

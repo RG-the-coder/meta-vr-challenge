@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e960c1d5b0a7418d82b87c698f496276, type: 3}
+  m_Name: Frostbinder
+  m_EditorClassIdentifier: BattlefieldPrototype.Runtime::BattlefieldPrototype.BattleUnitDefinition
+  DisplayName: Frostbinder
+  Role: 18
+  MaxHealth: 100
+  MoveSpeed: 4.8
+  Damage: 11
+  AttackRange: 13
+  AttackCooldown: 1.05
+  BodyScale: 1
+  ArmorFraction: 0.02
+  RetreatDistance: 5
+  AbilityCooldown: 8
+  SecondaryAbilityCooldown: 11
+  ThirdAbilityCooldown: 14
+  FourthAbilityCooldown: 22
+  AbilityPower: 25
+  AbilityRadius: 4.5
+  ProjectileSpeed: 25

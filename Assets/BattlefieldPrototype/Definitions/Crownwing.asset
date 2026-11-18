@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e960c1d5b0a7418d82b87c698f496276, type: 3}
+  m_Name: Crownwing
+  m_EditorClassIdentifier: BattlefieldPrototype.Runtime::BattlefieldPrototype.BattleUnitDefinition
+  DisplayName: Crownwing
+  Role: 28
+  FlightCeiling: 36
+  MaxHealth: 310
+  MoveSpeed: 3.6
+  Damage: 28
+  AttackRange: 16
+  AttackCooldown: 1.25
+  AbilityCooldown: 14
+  SecondaryAbilityCooldown: 18
+  BodyScale: 1.3
+  ArmorFraction: 0.25
+  ProjectileSpeed: 25
+  AbilityPower: 28
+  AbilityRadius: 2.8
+  RetreatDistance: 4

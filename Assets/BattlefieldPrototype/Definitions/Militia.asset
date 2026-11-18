@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e960c1d5b0a7418d82b87c698f496276, type: 3}
+  m_Name: Militia
+  m_EditorClassIdentifier: BattlefieldPrototype.Runtime::BattlefieldPrototype.BattleUnitDefinition
+  DisplayName: Militia
+  Role: 8
+  MaxHealth: 55
+  MoveSpeed: 5.4
+  Damage: 8
+  AttackRange: 8
+  AttackCooldown: 1
+  BodyScale: 0.83
+  ArmorFraction: 0
+  RetreatDistance: 2.5
+  AbilityCooldown: 8
+  SecondaryAbilityCooldown: 12
+  ThirdAbilityCooldown: 16
+  FourthAbilityCooldown: 22
+  AbilityPower: 28
+  AbilityRadius: 2.8
+  ProjectileSpeed: 18

@@ -1,0 +1,7 @@
+{
+  "name": "BattlefieldPrototype.Editor",
+  "rootNamespace": "BattlefieldPrototype.Editor",
+  "references": ["BattlefieldPrototype.Runtime", "Unity.InputSystem", "Unity.XR.CoreUtils", "Unity.XR.Hands"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

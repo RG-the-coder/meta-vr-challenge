@@ -1,0 +1,59 @@
+﻿[Script Info]
+Title: Wardens And Raiders — Cinematic Feature Showcase
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Bahnschrift,44,&H00F1EEE7,&H00F1EEE7,&H800C1218,&H00000000,0,0,0,0,100,100,1,0,1,0,1,7,0,0,0,1
+Style: Copy,Segoe UI,27,&H00D3D9DA,&H00D3D9DA,&H800C1218,&H00000000,0,0,0,0,100,100,0,0,1,0,1,7,0,0,0,1
+Style: Small,Bahnschrift,17,&H00C5C9C8,&H00C5C9C8,&H00000000,&H00000000,0,0,0,0,100,100,3,0,1,0,0,7,0,0,0,1
+Style: Mark,Georgia,138,&H00DBD0B6,&H00DBD0B6,&H60000000,&H00000000,-1,0,0,0,100,100,12,0,1,0,1,5,0,0,0,1
+Style: Brand,Bahnschrift,46,&H00F1EEE7,&H00F1EEE7,&H60000000,&H00000000,0,0,0,0,100,100,5,0,1,0,1,5,0,0,0,1
+Style: Shape,Arial,20,&H00000000,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:02:40.00,Shape,,0,0,0,,{\an7\pos(0,0)\1c&H000000&\alpha&H00&\p1}m 0 0 l 1920 0 1920 60 0 60
+Dialogue: 0,0:00:00.00,0:02:40.00,Shape,,0,0,0,,{\an7\pos(0,1020)\1c&H000000&\alpha&H00&\p1}m 0 0 l 1920 0 1920 60 0 60
+Dialogue: 3,0:00:00.50,0:02:39.00,Small,,0,0,0,,{\pos(100,21)\fad(600,600)}WAR  /  FEATURE SHOWCASE
+Dialogue: 4,0:00:00.60,0:00:07.70,Mark,,0,0,0,,{\pos(960,420)\fad(1100,650)}WAR
+Dialogue: 4,0:00:00.88,0:00:07.70,Brand,,0,0,0,,{\pos(960,550)\fad(1000,650)}WARDENS AND RAIDERS
+Dialogue: 4,0:00:01.25,0:00:07.70,Small,,0,0,0,,{\an5\pos(960,624)\fs20\fsp4\fad(850,650)}HAND-CONTROLLED TOWER WARFARE
+Dialogue: 4,0:00:01.20,0:00:07.70,Shape,,0,0,0,,{\an7\pos(800,590)\1c&H9FBCDA&\alpha&H10&\p1\fad(1000,650)}m 0 0 l 320 0 320 2 0 2
+Dialogue: 4,0:02:32.30,0:02:39.30,Mark,,0,0,0,,{\pos(960,420)\fad(1100,650)}WAR
+Dialogue: 4,0:02:32.58,0:02:39.30,Brand,,0,0,0,,{\pos(960,550)\fad(1000,650)}WARDENS AND RAIDERS
+Dialogue: 4,0:02:32.95,0:02:39.30,Small,,0,0,0,,{\an5\pos(960,624)\fs20\fsp4\fad(850,650)}SUMMON  /  BUILD  /  COMMAND  /  DEFEND
+Dialogue: 4,0:02:32.90,0:02:39.30,Shape,,0,0,0,,{\an7\pos(800,590)\1c&H9FBCDA&\alpha&H10&\p1\fad(1000,650)}m 0 0 l 320 0 320 2 0 2
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,780)\1c&H1C1407&\alpha&HF2&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,790)\1c&H1C1407&\alpha&HE9&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,800)\1c&H1C1407&\alpha&HE2&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,810)\1c&H1C1407&\alpha&HDA&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,820)\1c&H1C1407&\alpha&HD4&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,830)\1c&H1C1407&\alpha&HCD&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,840)\1c&H1C1407&\alpha&HC7&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,850)\1c&H1C1407&\alpha&HC1&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,860)\1c&H1C1407&\alpha&HBC&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,870)\1c&H1C1407&\alpha&HB6&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,880)\1c&H1C1407&\alpha&HB1&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,890)\1c&H1C1407&\alpha&HAC&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,900)\1c&H1C1407&\alpha&HA6&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,910)\1c&H1C1407&\alpha&HA1&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,920)\1c&H1C1407&\alpha&H9C&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,930)\1c&H1C1407&\alpha&H98&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,940)\1c&H1C1407&\alpha&H93&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,950)\1c&H1C1407&\alpha&H8E&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,960)\1c&H1C1407&\alpha&H89&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,970)\1c&H1C1407&\alpha&H85&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,980)\1c&H1C1407&\alpha&H80&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,990)\1c&H1C1407&\alpha&H7C&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,1000)\1c&H1C1407&\alpha&H77&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 1,0:00:08.12,0:00:13.92,Shape,,0,0,0,,{\an7\pos(0,1010)\1c&H1C1407&\alpha&H73&\p1\fad(350,220)}m 0 0 l 1920 0 1920 11 0 11
+Dialogue: 3,0:00:08.22,0:00:13.88,Shape,,0,0,0,,{\an7\pos(100,865)\1c&H9FBCDA&\alpha&H00&\p1\fad(350,250)}m 0 0 l 4 0 4 103 0 103
+Dialogue: 3,0:00:08.25,0:00:13.88,Title,,0,0,0,,{\pos(126,860)\fad(420,250)}BUILD YOUR WAR BAND
+Dialogue: 3,0:00:08.40,0:00:13.88,Copy,,0,0,0,,{\pos(127,924)\fad(420,250)}Summon guards, archers and healers. Reinforce whenever you have gold.
+Dialogue: 10,0:00:07.82,0:00:08.18,Shape,,0,0,0,,{\an7\pos(0,0)\1c&H000000&\alpha&H00&\p1\fad(180,180)}m 0 0 l 1920 0 1920 1080 0 1080
+Dialogue: 10,0:02:31.75,0:02:32.25,Shape,,0,0,0,,{\an7\pos(0,0)\1c&H000000&\alpha&H00&\p1\fad(250,250)}m 0 0 l 1920 0 1920 1080 0 1080

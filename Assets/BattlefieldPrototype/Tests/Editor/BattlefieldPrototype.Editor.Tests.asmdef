@@ -1,0 +1,8 @@
+{
+  "name": "BattlefieldPrototype.Editor.Tests",
+  "rootNamespace": "BattlefieldPrototype.Tests",
+  "references": ["BattlefieldPrototype.Runtime", "BattlefieldPrototype.Editor", "Unity.InputSystem", "Unity.XR.CoreUtils", "UnityEngine.UI", "Unity.XR.Hands"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

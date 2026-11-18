@@ -1,0 +1,6 @@
+{
+  "name": "BattlefieldPrototype.Runtime",
+  "rootNamespace": "BattlefieldPrototype",
+  "references": ["Unity.AI.Navigation", "Unity.InputSystem", "UnityEngine.UI", "Unity.XR.Hands"],
+  "autoReferenced": true
+}

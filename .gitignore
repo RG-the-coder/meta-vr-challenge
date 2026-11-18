@@ -1,0 +1,76 @@
+# Unity-generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+/LocalValidation/
+
+# Editor and IDE files
+.vs/
+.vscode/
+.idea/
+.gradle/
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+.vsconfig
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Builds, logs, and crash reports
+*.log
+*.apk
+*.aab
+*.obb
+*.unitypackage
+*.unitypackage.meta
+*.app
+sysinfo.txt
+mono_crash.*
+/*_BackUpThisFolder_ButDontShipItWithYourGame/
+/*_BurstDebugInformation_DoNotShip/
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+/Assets/Plugins/Editor/JetBrains*
+/UIElementsSchema/
+
+# Local credentials and tooling configuration
+/Assets/Resources/DevAgentSettings.asset
+/Assets/Resources/DevAgentSettings.asset.meta
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+/.aws/
+/.codex/
+/.agents/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Generated Python bytecode from showcase tools
+__pycache__/
+*.py[cod]
